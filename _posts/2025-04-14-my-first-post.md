@@ -5,4 +5,4 @@ categories: [cat, fat]
 tags: [cau, pau]     # TAG names should always be lowercase
 ---
 
-testing first post
+Cau is testing his first post.
